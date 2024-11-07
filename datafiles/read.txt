@@ -1,0 +1,9 @@
+Jenny 165 66
+Tom 170 88
+Vincent 173 85
+David 178 72
+Morris 178 80
+Tracy 165 66
+Alice 168 70
+Emily 165 61
+Lily 168 79
